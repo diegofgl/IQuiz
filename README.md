@@ -1,6 +1,6 @@
 # IQuiz
 
-## Projeto de Quiz Game em Swift em Storyboard
+## Projeto de Quiz Game desenvolvido em Storyboard - Swift
 
 Este é um projeto de exemplo em Swift que implementa um jogo de quiz interativo. O aplicativo permite que os usuários respondam a uma série de perguntas e, com base em suas respostas, calcula sua pontuação final.
 
